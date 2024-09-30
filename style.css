@@ -1,0 +1,31 @@
+body{
+  
+    background: linear-gradient(to right, rgb(11, 150, 209), rgb(5, 21, 126));
+    color: white;
+    padding: 5%;
+}
+form{
+    font-size: 30px;
+}
+#label1{
+    float: left;
+    
+}
+#input1{
+    float: right;
+    width: 150px;
+    height: 30px;
+   border-radius: 10px;
+   font-weight: bold;
+
+}
+#label2{
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+}
+::placeholder{
+    font-size: 20px;
+    align-items: center;
+    padding: 0.5px;
+}
